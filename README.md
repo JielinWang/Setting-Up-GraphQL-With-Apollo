@@ -70,4 +70,9 @@ const Username = () => {
 <img width="1440" alt=" Strapi restaurant collection" src="https://user-images.githubusercontent.com/94776104/202040850-6491ec10-6edb-4e3b-9775-16fc464be628.png">
 <img width="1440" alt=" UI populated with restaurants" src="https://user-images.githubusercontent.com/94776104/202040884-2dd5f9f1-b1be-422f-b0d1-927caa633630.png">
 
+## Author
+Jielin Wang 
+
+## Lisence 
+MIT
 
